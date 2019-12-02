@@ -4,6 +4,6 @@
 
 3. Linux distro (Ex: Ubuntu 18.04): 
 
-3. The steps to reproduce this issue:
+4. The steps to reproduce this issue:
 
 Noted: If the bug is related to data, please attach an example SQL data.
