@@ -1,6 +1,6 @@
 1. Database version (Ex: PostgreSQL 10.0):
 
-2. TablePlus Version (the number on the welcome or about screen, Ex: build 81):
+2. TablePlus version (the number on the welcome or about screen, Ex: build 81):
 
 3. Linux distro (Ex: Ubuntu 18.04): 
 
