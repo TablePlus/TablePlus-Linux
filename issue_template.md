@@ -1,6 +1,8 @@
-1. Which driver are you using and version of it (Ex: PostgreSQL 10.0):
+1. Database version (Ex: PostgreSQL 10.0):
 
-2. Which TablePlus build number are you using (the number on the welcome screen, Ex: build 81):
+2. TablePlus Version (the number on the welcome or about screen, Ex: build 81):
+
+3. Linux distro (Ex: Ubuntu 18.04): 
 
 3. The steps to reproduce this issue:
 
