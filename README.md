@@ -20,6 +20,7 @@ App screenshots:
 
 ![Welcome-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/welcome.png "Welcome screen")
 ![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace.png "Workspace")
+![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace-dark.png "Workspace")
 
 TablePlus is free and has no limit on trial time. I'd be very happy if you purchased a license to support development.
 
