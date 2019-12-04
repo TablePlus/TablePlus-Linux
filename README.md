@@ -1,27 +1,72 @@
-## Tool for Relational Database
-#### Native, Beautiful, Friendly
+<h2 align="middle">TablePlus</p>
+<h3 align="middle">A Native, Beautiful Tool for Relational Databases</h3>
 
-> TablePlus is a native app which helps you easily edit database data and structure.
-> TablePlus currently Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured
+<p align="center">
+    <a href="https://tableplus.com/linux">
+        <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
+    </a>
+    <a href="https://github.com/TablePlus/TablePlus-Linux/issues">
+        <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
+    </a>
+    <a href="https://github.com/TablePlus/TablePlus-Linux/projects/1">
+        <img src="https://img.shields.io/badge/-Road%20Map-blue?style=for-the-badge" alt="Road Map">
+    </a>
+</p>
 
-This repository is currently being used for hosting the official issue & bug tracker of TablePlus Linux.
+<br>
 
-Download (Not Available): [here](https://tableplus.com/linux)
- 
-Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus-Linux/issues).
+<h4 align="middle">
+    <u>
+        This repository is currently being used for hosting the official issue 
+        & bug tracker of TablePlus Linux
+    </u>
+</h4>
 
-Public road map: [project](https://github.com/TablePlus/TablePlus-Linux/projects/1).
+<br>
 
-Official pages: [Medium](http://medium.com/@huyphams), [Facebook](http://facebook.com/tableplusapp), [Twitter](http://twitter.com/tableplus)
+<pre align="middle">
+TablePlus is a native application which helps you
+easily edit database contents and structure in a
+clean, fluent manner
 
-Author: huy@tableplus.com
+Supports PostgreSQL, MySQL, RedShift, and MariaDB
+</pre>
 
-App screenshots:
+<br>
 
-![Welcome-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/welcome.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace.png "Workspace")
-![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace-dark.png "Workspace")
+<h3 align="middle">As excited as we are?</h3>
+<h4 align="middle">Check out some of our features:</h4>
 
-TablePlus is free and has no limit on trial time. I'd be very happy if you purchased a license to support development.
+| ![Welcome-screen](https://github.com/TablePlus/TablePlus-Linux/raw/master/Resources/welcome.png) | ![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/raw/master/Resources/workspace.png) | ![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/raw/master/Resources/workspace-dark.png) |
+|:---:|:---:|:---:|
+| Clean UI 🧹 | Light Mode ☀️ | Dark Mode 🕶️ |
 
-TablePlus team.
+<br>
+
+<h3 align="middle">TablePlus is free and has no limit on trial time</h3>
+
+<h4 align="middle">
+    We would be thrilled if you
+    <a href="https://tableplus.com/pricing">purchased a license</a>
+    to support development!
+</h4>
+
+<br>
+<br>
+
+<p align="center">
+    TablePlus Team | 
+    <a href="mailto:huy@tableplus.com">huy@tableplus.com</a>
+</p>
+
+<p align="center">
+    <a href="https://medium.com/@huyphams">
+        <img src="https://img.shields.io/badge/-Medium-03a87c?style=for-the-badge" alt="Medium">
+    </a>
+    <a href="https://facebook.com/tableplusapp">
+        <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/tableplus">
+        <img src="https://img.shields.io/badge/-Twitter-00aced?style=for-the-badge" alt="Twitter">
+    </a>
+</p>
