@@ -1,3 +1,5 @@
+### Please anwser the questions below, it helps us to track the issue.
+
 1. Database version (Ex: PostgreSQL 10.0):
 
 2. TablePlus version (the number on the welcome or about screen, Ex: build 81):
