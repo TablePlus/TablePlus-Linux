@@ -29,7 +29,7 @@ TablePlus is a native application which helps you
 easily edit database contents and structure in a
 clean, fluent manner
 
-Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, and MariaDB
+Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, MariaDB, and MongoDB
 </pre>
 
 <br>
