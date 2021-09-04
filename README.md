@@ -56,7 +56,7 @@ Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, and MariaDB
 
 <p align="center">
     TablePlus Team | 
-    <a href="mailto:huy@tableplus.com">huy@tableplus.com</a>
+    <a href="mailto:nick@tableplus.com">nick@tableplus.com</a>
 </p>
 
 <p align="center">
