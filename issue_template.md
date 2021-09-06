@@ -1,4 +1,4 @@
-### Please anwser the questions below, it helps us to track the issue.
+### Please answer the questions below, it helps us to track the issue.
 
 1. Database version (Ex: PostgreSQL 10.0):
 
