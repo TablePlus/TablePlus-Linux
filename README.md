@@ -38,7 +38,7 @@ Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, MariaDB, Cassandra, 
 <h4 align="middle">Check out some of our features:</h4>
 
 ![Welcome-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/welcome-screen.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace-light.png "Workspace")
+![Workspace-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/workspace-dark.png "Workspace")
 ![Dark-Theme-screen](https://github.com/TablePlus/TablePlus-Linux/blob/master/Resources/export-dark.png "Dark Them screen")
 
 <br>
