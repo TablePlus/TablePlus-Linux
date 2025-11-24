@@ -9,7 +9,7 @@ assignees: ''
 
 # Please answer the questions below, it helps us to keep track of the issue. Please do not ignore it or your issue will be closed.
 
-## Noted: If the bug is related to data, please attach an example SQL data.
+## Note: If the bug is related to data, please attach an example SQL data.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
