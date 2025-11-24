@@ -14,14 +14,14 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-Which driver are you using and version of it (Ex: PostgreSQL 10.0):
+**Which driver are you using and version of it**:
+Example: PostgreSQL 10.0
 
-Which TablePlus build number are you using (the number on the about screen, Ex: build 81):
-
-The steps to reproduce this issue:
+**Which TablePlus build number are you using (the number on the about screen)**:
+Example: 81
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Include steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
